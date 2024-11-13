@@ -19,7 +19,7 @@ module.exports.run = function ({ event }) {
       [
         {
           type: "web_url",
-          url: "https://www.facebook.com/yandeva.me",
+          url: "https://www.facebook.com/ulricatayi11",
           title: "Check Profile",
         },
         {
