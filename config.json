@@ -1,14 +1,14 @@
 {
-  "PAGE_ACCESS_TOKEN": "",
+  "PAGE_ACCESS_TOKEN": "EAAY4pCCQWOUBO0nQx1xXYZAohTgE4xE6sRTqwnmPRYlM2Dght8blZA8OeGSCaUZCix2elZCGtx840PeZBtrU4qdjLZCcF8grq3vcVMCtn7fc0atQCZAqkX4NPrATiVBUVjbZB0HXBGeZAMcUk3hZBorQNBBrD7BoCmFXtTeaFTgAQLcsFDLIUnRnoQDlyEgA7QFlB3zAZDZD",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "100093642414284"
   ],
-  "BOTNAME": "BOTNAME",
+  "BOTNAME": "Tamara",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Ulric Atayi",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
